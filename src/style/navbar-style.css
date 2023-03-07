@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.navbar > h1{
+    margin-right: auto;
+    margin-left: 15px;
+}
