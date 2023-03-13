@@ -25,7 +25,7 @@ export default function MainPage(){
  
     return (
     <div className="main-page">
-      <div className="form">
+      <div className="form"> 
 
         <input 
         type="text" 
